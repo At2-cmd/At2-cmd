@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @At2-cmd
+- 👋 Hi, I’m Atakan!
 - 👀 I’m interested in Android Development with Kotlin language
 - 🌱 I’m currently learning principles of Kotlin and also Game Development with Unity
 - 📫 How to reach me -> atakankuloglu1997@gmail.com
