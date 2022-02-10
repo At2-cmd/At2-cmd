@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Atakan!
-- 👀 I’m interested in Android Development with Kotlin language
-- 🌱 I’m currently learning principles of Kotlin and also Game Development with Unity
+- 👀 I’m interested in with Game and Android Developing
 - 📫 How to reach me -> atakankuloglu1997@gmail.com
 
 <!---
