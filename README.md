@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atakan!
-- 👀 I’m interested in with Game and Android Developing
+- 👀 I’m interested in with Game and Android Development
 - 📫 How to reach me -> atakankuloglu1997@gmail.com
 
 <!---
