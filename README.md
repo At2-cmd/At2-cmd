@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Atakan!
 - 👀 I’m interested in with Game & Android Development
-- 📫 How to reach me -> atakan@rotatelab.com
 - 💬 Ask me about **Unity,Kotlin,C#**
 
 <!---
